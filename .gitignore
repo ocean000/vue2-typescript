@@ -1,0 +1,8 @@
+template/DS_Store
+template/node_modules/
+template/dist/
+template/local-data/
+template/npm-debug.log
+.idea/
+.editorconfig
+template/npm-debug.log.*
